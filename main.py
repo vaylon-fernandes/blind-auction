@@ -1,6 +1,5 @@
 from replit import clear
 from art import logo
-import os
 
 print(logo)
 
@@ -12,6 +11,8 @@ def get_highest_bidder(bids):
       highest_bid=bid
       highest_bidder=name
   print(f"The winner of the aution is {highest_bidder} with bid of {highest_bid}")
+
+  
 bidders_list={}
 auction_on=True
 while auction_on:
