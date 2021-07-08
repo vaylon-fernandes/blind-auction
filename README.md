@@ -11,6 +11,10 @@ Go to the project directory
 ```bash
 cd blind-auction
 ```
+Run `main.py`
+```bash 
+python main.py 
+```
 
 ## Live Version 
 See a live version on replit [here](https://repl.it/@vaylonfernandes/Hangman?embed=1&output=1#main.py) 
